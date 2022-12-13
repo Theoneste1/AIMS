@@ -1,6 +1,32 @@
 {
 	"questions": [
 		{
+			"text":"How many interns does AIMS Math Olympiad has?, There is Theoneste and Jules only, so?",
+			"answer":2
+		},
+		{
+			"text": "How many side do you on the above Diagram picture?",
+			"answer": 5,
+			"attachment": "attachments/5gon.png"
+		},
+		{
+			"text": "What is the perimeter on the above Diagram?",
+			"answer": 36,
+			"attachment": "attachments/5gon.png"
+		},
+		{
+			"text": "Fiona has two cubes, one of side length 9cm composed of white unit cubes (i.e. cubes of side length 1cm), and one of side length 10cm composed of black unit cubes. With these unit cubes she wants to build up a cube of side length 12cm. At least how many cm\u00B2 of the surface have to be black?",
+			"answer": 0
+		},
+		{
+			"text": "What is the measurement in degrees of the angle formed by the minute and hour hands when a clock reads 12:12?",
+			"answer": 66
+		},
+		{
+			"text": "How many ways can we order the letters of the word SPEED?",
+			"answer": 60
+		},
+		{
 			"text": "What is the last digit of 230 + 15 + 1059373 + 897452 + 23009244 + 1024 + 22422422 + 37",
 			"answer": 7
 		},
@@ -131,18 +157,6 @@
 		{
 			"text": "Little Christine owns a big treasure chest containing a lot of labelled coins: one coin labelled with 1, two coins labelled with 2, ..., eighteen coins labelled with 18, and nineteen coins labelled with 19. Christine takes one coin after the other out of her treasure chest without being able to read its label. What is the minimum number of coins Christine has to take out if she wants to make sure she has ten identically labelled coins?",
 			"answer": 136
-		},
-		{
-			"text": "Fiona has two cubes, one of side length 9cm composed of white unit cubes (i.e. cubes of side length 1cm), and one of side length 10cm composed of black unit cubes. With these unit cubes she wants to build up a cube of side length 12cm. At least how many cm\u00B2 of the surface have to be black?",
-			"answer": 0
-		},
-		{
-			"text": "What is the measurement in degrees of the angle formed by the minute and hour hands when a clock reads 12:12?",
-			"answer": 66
-		},
-		{
-			"text": "How many ways can we order the letters of the word SPEED?",
-			"answer": 60
 		}
 	]
 }
